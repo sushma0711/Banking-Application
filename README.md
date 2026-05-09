@@ -1,8 +1,8 @@
-# 🏦 Banking Application
+# Banking Application
 
 A Java-based Banking Application developed to simulate core banking operations such as account creation, deposits, withdrawals, balance inquiry, and transaction management. This project demonstrates the implementation of Object-Oriented Programming concepts, database connectivity, and backend application development.
 
-## 📌 Features
+## Features
 
 - Create new bank accounts
 - Deposit money
@@ -13,7 +13,7 @@ A Java-based Banking Application developed to simulate core banking operations s
 - Database integration using JDBC
 - Exception handling and validations
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - Java
 - JDBC
@@ -23,7 +23,7 @@ A Java-based Banking Application developed to simulate core banking operations s
 - Exception Handling
 - Git & GitHub
 
-## 📂 Project Structure
+## Project Structure
 
 ```bash
 Banking-Application/
